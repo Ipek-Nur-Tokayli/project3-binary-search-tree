@@ -7,11 +7,11 @@ Proje 3
  root 7'dir. rootun yanında root'tan büyükler, solunda küçükler bulunur.
  
  
-                                          7
+                                             7
                             
-                           5                            8  
+                             5                            8  
                       
-                       1         6                          9
+                       1           6                          9
                    
                     0      3
                          
