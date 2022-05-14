@@ -4,7 +4,7 @@ Proje 3
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb
  
- root 7'dir. rootun yanında root'tan büyükler, solunda küçükler bulunur.
+ root 7'dir. rootun sağında root'tan büyükler, solunda küçükler bulunur.
  
  
                                              7
